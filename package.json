@@ -1,6 +1,6 @@
 {
   "name": "json-refs",
-  "version": "3.0.15",
+  "version": "3.0.15-lineaje-01",
   "description": "Various utilities for JSON References (http://tools.ietf.org/html/draft-pbryan-zyp-json-ref-03).",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,12 @@
     "email": "jwhitlock@apache.org",
     "url": "https://github.com/whitlockjc"
   },
-  "contributors": [],
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "engines": {
     "node": ">=0.8"
   },
@@ -33,7 +38,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/whitlockjc/json-refs.git"
+    "url": "https://github.com/lineaje-labs-gos/whitlockjc-json-refs"
   },
   "keywords": [
     "json"
